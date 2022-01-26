@@ -1,0 +1,2 @@
+DATA SALIDA2;
+SET X;
